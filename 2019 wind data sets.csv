@@ -1,4 +1,4 @@
-timestamp,Basel Wind Speed [10 m],Basel Wind Direction [10 m]
+timestamp,ID,Basel Wind Direction [10 m]
 20190101T0000,5.0142193,291.0375
 20190101T0100,4.6800003,292.61987
 20190101T0200,4.6938257,302.4712
